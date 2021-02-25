@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://github.com/jljiu9/sad
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
